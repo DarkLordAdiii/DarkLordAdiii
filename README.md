@@ -13,7 +13,17 @@ Skills & Interests:
 -Version Control: Git, GitHub       
 -Tools: VS Code, GitHub Pages, Vercel      
 
+## Projects   
+Some of my Notable Projects:     
 
+1) Educational Website For Kids:
+   [BrainLyx](https://darklordadiii.github.io/Educational-Website-1st-Year-/)
+
+## Contact
+
+Email: aditya.ranjan.cs@gmail.com
+LinkedIn: https://www.linkedin.com/in/aditya-ranjan-sinha-01bbab398
+Github: https://github.com/DarkLordAdiii
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
