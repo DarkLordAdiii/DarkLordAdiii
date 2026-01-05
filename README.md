@@ -2,6 +2,13 @@
 
 Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
+## About Me
+
+I’m a passionate tech enthusiast focused on building meaningful software solutions. I enjoy working with AI, web technologies, and data, and I love learning new frameworks and experimenting with emerging technologies.
+
+Skills & Interests:
+
+-Languages: HTML, CSS, JavaScript, C, C++
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
