@@ -8,10 +8,10 @@ I’m a passionate tech enthusiast focused on building meaningful software solut
 
 Skills & Interests:
 
--Languages: C, C++
--Web Development: HTML, CSS, JavaScript
--Version Control: Git, GitHub
--Tools: VS Code, GitHub Pages, Vercel
+-Languages: C, C++        
+-Web Development: HTML, CSS, JavaScript      
+-Version Control: Git, GitHub       
+-Tools: VS Code, GitHub Pages, Vercel      
 
 
 <!--
