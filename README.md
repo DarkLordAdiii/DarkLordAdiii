@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aditya Ranjan Sinha (DarkLordAdiii)
+
+Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
