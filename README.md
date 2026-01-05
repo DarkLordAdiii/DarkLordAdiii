@@ -8,7 +8,12 @@ I’m a passionate tech enthusiast focused on building meaningful software solut
 
 Skills & Interests:
 
--Languages: HTML, CSS, JavaScript, C, C++
+-Languages: C, C++
+-Web Development: HTML, CSS, JavaScript
+-Version Control: Git, GitHub
+-Tools: VS Code, GitHub Pages, Vercel
+
+
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
