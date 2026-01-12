@@ -19,13 +19,13 @@ Some of my Notable Projects:
 1) EDUCATIONAL WEBSITE FOR KIDS:        
    I have made this Website using HTML & CSS . Right no I'm learning Javascript and I'm looking forward to learn more about web development and I'm looking forward to work more on this website.        
            
-   [BrainLyx](https://darklordadiii.github.io/Educational-Website-1st-Year-/)
+   [BrainLyx](https://adityaranjan05.github.io/Educational-Website-1st-Year-/)
 
 ## Contact
 
 Email: aditya.ranjan.cs@gmail.com      
 LinkedIn: https://www.linkedin.com/in/aditya-ranjan-sinha-01bbab398       
-Github: https://github.com/DarkLordAdiii    
+Github: https://github.com/adityaranjan05    
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
