@@ -19,7 +19,7 @@ Some of my Notable Projects:
 1) EDUCATIONAL WEBSITE FOR KIDS:        
    I have made this Website using HTML & CSS . Right no I'm learning Javascript and I'm looking forward to learn more about web development and I'm looking forward to work more on this website.        
            
-   [BrainLyx](https://adityaranjan05.github.io/Educational-Website-1st-Year-/)
+   [Click Here](https://adityaranjan05.github.io/Educational-Website-1st-Year-/)
 
 ## Contact
 
