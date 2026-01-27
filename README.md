@@ -1,27 +1,36 @@
-## Aditya Ranjan Sinha (adityaranjan05)
+# Aditya Ranjan Sinha (@adityaranjan05)
 
 Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
 
-## About Me
+# 💫 About Me:
+- 🔭 I'm Currently Working On A Educational Website for Kids which I'm making using HTML, CSS, JavaScript.           
+- 🌱 I'm Currently Learning about Frontend Development, C++, DSA
 
-I’m a passionate tech enthusiast focused on building meaningful software solutions. I enjoy working with AI, web technologies, and data, and I love learning new frameworks and experimenting with emerging technologies.
 
-Skills & Interests:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-sinha-01bbab398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.ranjan.cs@gmail.com) 
 
--Languages: C, C++        
--Web Development: HTML, CSS, JavaScript      
--Version Control: Git, GitHub       
--Tools: VS Code, GitHub Pages, Vercel      
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adityaranjan05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Projects   
-Some of my Notable Projects:     
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adityaranjan05&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-1) EDUCATIONAL WEBSITE FOR KIDS:        
-   I have made this Website using HTML & CSS . Right no I'm learning Javascript and I'm looking forward to learn more about web development and I'm looking forward to work more on this website.        
-           
-   [Click Here](https://adityaranjan05.github.io/Educational-Website-1st-Year-/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Contact
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adityaranjan05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityaranjan05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact
 
 Email: aditya.ranjan.cs@gmail.com      
 LinkedIn: https://www.linkedin.com/in/aditya-ranjan-sinha-01bbab398       
