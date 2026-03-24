@@ -17,6 +17,16 @@ Welcome to my GitHub! I’m a Computer Science Engineering student passionate ab
 ![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 Badges
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adityaranjan05&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaranjan05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaranjan05&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
